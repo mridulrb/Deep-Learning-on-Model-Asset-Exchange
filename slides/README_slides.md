@@ -45,11 +45,14 @@ jupyter:
 
 
 **Details** <br />
-In this workshop you will be introduced to OpenShift Deployment and IBM Watson Discovery.
+Learn about the Model Asset Exchange (MAX) where you can deploy your model locally as a Microservice on Docker, or IBM Cloud.
+
 
 🎓 What will you learn? <br />
-- What are the basic concepts used by OpenShift and IBM Watson Discovery.
-- How to create and run the Deep-Learning-on-Model-Asset-Exchange application in a container running on Red Hat OpenShift.
+- What is the Model Asset Exchange (MAX)
+- How can you deploy a Deep Learning model.
+- How does the model get deployed and trained over a Container.
+- We'll conclude with an interactive lab where we will deploy a model from MAX.
 
 👩‍💻 Who should attend? <br />
 Developers and those interested in OpenShift, and IBM Watson Discovery.
@@ -57,22 +60,19 @@ Developers and those interested in OpenShift, and IBM Watson Discovery.
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 🎙️ Speakers
-- Karim Deif, IBM Client Developer Advocate, Egypt
-(https://www.linkedin.com/in/karimdeif/)
-- Mridul Bhandari, IBM Cloud Developer Advocate, U.A.E
-(https://www.linkedin.com/in/mridul-bhandari/)
+- Mridul Bhandari, IBM Developer Advocate, U.A.E - (https://lnkd.in/drsgBWn)
+- Mostafa Abdelaleem, IBM Developer Advocate, Egypt -
+(https://lnkd.in/dHBq67m)
 
 🎈 Prerequisites <br />
-1) Sign up to IBM Cloud using this link: https://ibm.biz/AssistantonOpenShift <br />
-2) Register for the live event or watch the recording: https://www.crowdcast.io/e/build-a-red-hat
+1) Sign up to IBM Cloud using this link: https://ibm.biz/MAXDeepLearning <br />
+2) Register for the live event or watch the recording: https://www.crowdcast.io/e/maxdeeplearning
 
 👩‍💻Resources 
-- GitHub Repository - https://ibm.biz/AssistantOpenShift
-- Workshop Slides - https://ibm.biz/AssistantResources
-- Survey - https://ibm.biz/AssistantSurvey
+- GitHub Repository - https://ibm.biz/MAXTutorial
+- Workshop Slides - https://ibm.biz/MAXResources
+- Survey - https://ibm.biz/MAXSurvey
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
-- Digital Developer Conference: Data & AI - https://ibm.biz/devcon-ai-meetup
-- OpenShift Cluster - https://watsondiscos.mybluemix.net/ | Key - oslab
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
